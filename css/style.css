@@ -3644,8 +3644,8 @@ a.nav-link.dropdown-toggle {
   margin-top: -4px; }
 
 .bg-dark-gray {
-  border-color: #231f20 !important;
-  background-color: #231f20 !important; }
+  border-color: #212121 !important;
+  background-color: #212121 !important; }
 
 .map-responsive {
   overflow: hidden;
@@ -3680,3 +3680,29 @@ a.nav-link.dropdown-toggle {
   height: 60px; }
   .cbp-pagination-item img {
     height: 60px; }
+
+.lead {
+  font-weight: 900;
+  color: #171314; }
+
+.title-heading1:after {
+  background: #c6191d; }
+
+.bg-dark {
+  background-color: #151314 !important;
+  border-color: #151314 !important; }
+
+.bg-primary {
+  background: #c6191d !important;
+  border-color: #c6191d !important; }
+
+.text-primary {
+  color: #c6191d !important; }
+
+.icon-box-title {
+  color: white;
+  font-weight: 600;
+  text-transform: uppercase; }
+
+.icon-sm-rounded {
+  background: #c6191d !important; }
